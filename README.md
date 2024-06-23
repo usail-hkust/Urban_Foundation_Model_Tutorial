@@ -22,14 +22,14 @@ Relevant papers and open-source resources have been collated and are continuousl
 
 ### Tutorial Outline
 
-### 1. Introduction [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
+### 1. Introduction [15 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
 
   > We introduce the basic concepts and definitions related to Urban Foundation Models (UFMs) and how they can pave the way to Urban General Intelligence (UGI).
 
-### 2. Challenges of Building UFMs [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
+### 2. Challenges of Building UFMs [15 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
   > This section discusses the challenges to building UFMs, including multi-source, multi-granularity, and multi-modal data integration; spatio-temporal reasoning capability; versatility to diverse urban task domains; and privacy and security concerns. 
 
-### 4. Overview of UFMs [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
+### 4. Overview of UFMs [90 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
 
   > We introduce a data-centric taxonomy for UFMs-related studies to shed light on the progress and efforts made in this field. Based on the urban data modalities, we categorize the existing works on UFMs into six classes: 
   > - Language-based models
