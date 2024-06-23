@@ -25,6 +25,8 @@ Relevant papers and open-source resources have been collated and are continuousl
 1. Introduction [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
 
   <blockquote>We introduce the basic concepts and definitions related to Urban Foundation Models (UFMs) and how they can pave the way to Urban General Intelligence (UGI).</blockquote>
+  > We introduce the basic concepts and definitions related to Urban Foundation Models (UFMs) and how they can pave the way to Urban General Intelligence (UGI).
+
 
 2. Causal Discovery from Multivariate Time Series
   - Constraint-Based Approaches
