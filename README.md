@@ -66,13 +66,13 @@ Relevant papers and open-source resources have been collated and are continuousl
 
 <img align="left" src="figs/hangni.jpg" width="80" >**[Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en)** received his B.E. degree from Northwestern Polytechnical University. He is currently a Ph.D. candidate at Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). His research interests lie in areas of graph learning and urban computing. Some of his works have been accepted by top conferences and journals such as CIKM and KBS.
 
-
+<!-- 
 ### [Hao Liu](https://raymondhliu.github.io/)
 <img align="left" src="figs/haoliu.jpg" width="80px" style="margin-right: 10px;" alt="Hao Liu">
 
 Hao Liu is currently an assistant professor at the Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). Before joining HKUST Guangzhou, he was a senior research scientist at Baidu Research and a postdoctoral fellow at HKUST. He earned his Ph.D. from the Hong Kong University of Science and Technology in 2017.
 
-His research primarily focuses on data mining, machine learning, and big data management, with particular interest in mobile analytics and urban computing. He has published extensively in top-tier journals and conference proceedings, including TKDE, VLDBJ, KDD, NeurIPS, VLDB, SIGIR, WWW, AAAI, and IJCAI.
+His research primarily focuses on data mining, machine learning, and big data management, with particular interest in mobile analytics and urban computing. He has published extensively in top-tier journals and conference proceedings, including TKDE, VLDBJ, KDD, NeurIPS, VLDB, SIGIR, WWW, AAAI, and IJCAI. -->
 
 ## Cite our work 
 
