@@ -22,54 +22,49 @@ Relevant papers and open-source resources have been collated and are continuousl
 
 ### Tutorial Outline
 
-1. Introduction [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
+### 1. Introduction [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
 
-  <blockquote>We introduce the basic concepts and definitions related to Urban Foundation Models (UFMs) and how they can pave the way to Urban General Intelligence (UGI).</blockquote>
   > We introduce the basic concepts and definitions related to Urban Foundation Models (UFMs) and how they can pave the way to Urban General Intelligence (UGI).
 
+### 2. Challenges of Building UFMs [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
+  > This section discusses the challenges to building UFMs, including multi-source, multi-granularity, and multi-modal data integration; spatio-temporal reasoning capability; versatility to diverse urban task domains; and privacy and security concerns. 
 
-2. Causal Discovery from Multivariate Time Series
-  - Constraint-Based Approaches
-  - Score-Based Approaches
-  - FCM-Based Approaches
-  - Granger Causality-Based Approaches
-  - Others
+### 4. Overview of UFMs [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
 
-3. Causal Discovery from Event Sequence
-  - Granger Causality-Based Approaches
-  - Constraint-Based Approaches
-  - Score-Based Approaches
+  > We introduce a data-centric taxonomy for UFMs-related studies to shed light on the progress and efforts made in this field. Based on the urban data modalities, we categorize the existing works on UFMs into six classes: 
+  > - Language-based models
+  > - Vision-based models
+  > - Trajectory-based models
+  > - Time series-based models
+  > - Multimodal models
+  > - Others
+  > We will clarify these studies through the lens of their focused pre-training and adaptation techniques. 
 
-4. Applications and New Perspectives
-  - Applications: root cause analysis, anomaly detection, video analysis, bioinformatics, business intelligence in E-commerce, urban data analysis, etc.
-  - New Perspectives: amortized casual discovery, supervised casual discovery, and causal representation learning
+### 5. Prospects of UFMs [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
 
+  > To foster advancement in this field, we present a promising framework aimed at the prospective realization of versatile UFMs, designed to overcome the identified challenges.
 
+### 6. Applications [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
+
+  > This section explores the application landscape of UFMs, detailing their potential impact in various urban domains, such as transportation, urban planning, energy management, environmental monitoring, and public safety and security.
 
 ## Short Bio of Lecturers and Contributors
 
-Our team has rich research experience in temporal data analysis. We have published over 30 papers on trajectory representation learning, anomaly detection, and causal inference. During our research, we found that the causal structure underlying the temporal data would be generally beneficial to many tasks. Thus, we summarize the cutting-edge techniques of causal discovery and propose this tutorial.
+[Team Introduction]
 
 
-<img align="left" src="figs/Chang.jpg" width="80" >**[Chang Gong](https://chaunceykung.github.io/)** is currently a second-year Ph.D. student at the Institute of Computing Technology, Chinese Academy of Sciences. He received the B.S. degree in computer science and technology from Tongji University, Shanghai, China, in 2021. His research interests include causal discovery, computational advertising, and root cause analysis.
+<img align="left" src="figs/haoliu.jpg" width="80" >**[Hao Liu](https://raymondhliu.github.io/)** is currently an assistant professor at the Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). Prior to that, he was a senior research scientist at Baidu Research and a postdoctoral fellow at HKUST. He received the Ph.D. degree from the Hong Kong University of Science and Technology (HKUST), in 2017. His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing. He has published prolifically in refereed journals and conference proceedings, such as TKDE, VLDBJ, KDD, NeurIPS, VLDB, SIGIR, WWW, AAAI, and IJCAI.
 
 
-<img align="left" src="figs/Di.jpg" width="80" >**[Di Yao](http://www.yaodi.info/)** is an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. Before joining ICT, he obtained his Ph.D. degree in University of Chinese Academy of Sciences supervised by Prof. Jingping Bi. Previously he conducted one year visiting at DMAL, Nanyang Technological University under the supervision of Prof. Gao Cong. His research interest lies on time series analysis, anomaly detection and causal discovery.
+<img align="left" src="figs/huixiong.jpg" width="80" >**[Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)** is a Chair Professor, Associate Vice President (Knowledge Transfer), and Head of the Artificial Intelligence Thrust at Hong Kong University of Science and Technology (Guangzhou). His research interests span artificial intelligence, data mining, and mobile computing. He obtained his PhD in Computer Science from the University of Minnesota, USA. Dr. Xiong has served on numerous organization and program committees for conferences, including as Program Co-Chair for the Industrial and Government Track for the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Program Co-Chair for the IEEE 2013 International Conference on Data Mining (ICDM), General Co-Chair for the 2015 IEEE International Conference on Data Mining (ICDM), and Program Co-Chair of the Research Track for the 2018 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. He received several awards, such as the 2021 AAAI Best Paper Award and the 2011 IEEE ICDM Best Research Paper award. For his significant contributions to data mining and mobile computing, he was elected as a Fellow of both AAAS and IEEE in 2020.
 
+<img align="left" src="figs/haoliu.jpg" width="80" >**[Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en)** is currently a Ph.D. student at the Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). His research interests include spatio-temporal data mining, urban general intelligence, and sequence modeling. His works on urban intelligence have been published in several prestigious conferences and journals, such as KDD, WWW, VLDB, AAAI, ICDM, and TKDE. 
 
-<img align="left" src="figs/Chuzhe.jpg" width="80" >**[Chuzhe Zhang]()** is an AI research assistant at the Institute of Computing Technology, Chinese Academy of Sciences. He received his BS degree from Fudan University in 2023. His research interests include temporal causal discovery and financial time-series forecasting.
+<img align="left" src="figs/haoliu.jpg" width="80" >**[Jindong Han](https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=en)** is currently a Ph.D. student at the Hong Kong University of Science and Technology. His research interests include spatiotemporal data mining, urban computing, and large language models. He has published several research papers in prestigious conferences and journals, such as KDD, VLDB, AAAI, TKDE, and VLDBJ. He received the first prize award in the Fresh Air competition of KDD Cup 2018.
 
+<img align="left" src="figs/haoliu.jpg" width="80" >**[Zhao Xu](https://xzbill.top/zhaoxu/)** received his B.E. degree from Tsinghua University. He is currently an MPhil student at the Hong Kong University of Science and Technology (Guangzhou). His works have been published by influential conferences and journals such as IEEE TMC and ACM SIGSPATIAL, aiming at developing reliable, trustworthy large models for real-world applications.
 
-<img align="left" src="figs/Wenbin.jpg" width="80" >**[Wenbi Li]()** is currently a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences. He received the B.S. degree in computer science and technology from the University of Science and Technology of China. His research interests include time-series analysis, anomaly detection, and causal inference.
-
-
-<img align="left" src="figs/Jingping.jpg" width="80" >**[Jingping Bi](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496583.html)** is currently a full professor at the Institute of Computing Technology, Chinese Academy of Sciences. She received her Ph.D. in 2002 from the Institute of Computing Technology, Chinese Academy of Sciences. Her research interests include network measurement, routing, virtualization, SDN, and big data. She is an IEEE Member.
-
-<img align="left" src="figs/DU.png" width="80" >**[Lun Du](https://www.microsoft.com/en-us/research/people/ludu/)** is a Senior Researcher in the DKI (Data, Knowledge, Intelligence) area at Microsoft Research Asia. He has been working in the same research group since he joined Microsoft in July 2019. His research interests include techniques of machine learning, data mining, graph models and their applications in software engineering, and tabular data understanding. He has published 40+ papers in top conferences and journals, such as KDD, WWW,  NeurIPS, ICLR, ICSE, IJCAI, AAAI, ACL, EMNLP, WSDM, CIKM, TKDD, etc., and his papers won the Best Paper Runner-up Award at CIKM’19 and Best Short Paper Award at CIKM’21. He has been a senior PC member of IJCAI’21 and a PC member of AAAI’21 22 23, WWW’20 22 23, ICML’22 23, KDD’22 23, NeurIPS’22 23, and WSDM’23. Before joining Microsoft Research, he received his M.S. from Peking University, Beijing, China, in 2019.
-
-<img align="left" src="figs/Wang.jpg" width="80" >**[Jin Wang](https://www.jinwang18.net/)** is a Research Scientist and Research Lead in Megagon Labs. He obtained his Ph.D. degree from Computer Science Department, University of California, Los Angeles in July 2020 under the supervision of Professor Carlo Zaniolo. Before that, he obtained his Master degree of Engineering from Department of Computer Science and Technology, Tsinghua Univeristy in 2015. His research interest lies in the broad areas of database, machine learning and information retrieval. In particular, his research focuses on Database Query Language, Database System and using database technologies to boost the applications in data integration and natural language processing. He is a member of ACM and IEEE.
-
-<img align="left" src="figs/jiayin.jpg" width="80" >**[Jiayan Guo]()** is a PhD candidate at Peking University. He received B.S. degree at Beijing Institute and Technology at 2019. His research interests include data mining, natural language processing, graph machine learning and their applications for recommender systems. He has published papers on top-tier conferences like KDD, WWW, WSDM and CIKM. His paper won the Best Paper Award Honorable Mention at WSDM 2023.
+<img align="left" src="figs/haoliu.jpg" width="80" >**[Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en)** received his B.E. degree from Northwestern Polytechnical University. He is currently a Ph.D. candidate at Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). His research interests lie in areas of graph learning and urban computing. Some of his works have been accepted by top conferences and journals such as CIKM and KBS.
 
 
 
@@ -77,35 +72,21 @@ Our team has rich research experience in temporal data analysis. We have publish
 ## Cite our work 
 
 If you find our work useful, please cite our work
-- KDD 2023 Tutorial (Causal Discovery from Temporal Data)
+<!-- - KDD 2024 Tutorial (Towards Urban General Intelligence Through Urban Foundation Models)
 ```
-@inproceedings{kdd/Gong0ZLBDW23,
-  author       = {Chang Gong and
-                  Di Yao and
-                  Chuzhe Zhang and
-                  Wenbin Li and
-                  Jingping Bi and
-                  Lun Du and
-                  Jin Wang},
-  title        = {Causal Discovery from Temporal Data},
-  booktitle    = {Proceedings of the 29th {ACM} {SIGKDD} Conference on Knowledge Discovery
-                  and Data Mining, {KDD} 2023, Long Beach, CA, USA, August 6-10, 2023},
-  pages        = {5803--5804},
-  publisher    = {ACM},
-  year         = {2023}
-}
-```
+
+``` -->
 - Survey paper (Causal Discovery from Temporal Data: An Overview and New Perspectives)
 ```
-@article{gong2023causal,
-  title={Causal Discovery from Temporal Data: An Overview and New Perspectives},
-  author={Gong, Chang and Yao, Di and Zhang, Chuzhe and Li, Wenbin and Bi, Jingping},
-  journal={arXiv preprint arXiv:2303.10112},
-  year={2023}
+@article{zhang2024towards,
+  title={Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models},
+  author={Zhang, Weijia and Han, Jindong and Xu, Zhao and Ni, Hang and Liu, Hao and Xiong, Hui},
+  journal={arXiv preprint arXiv:2402.01749},
+  year={2024}
 }
 ```
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8szPTSzsKjr4sJsqpi8rGoh4vjdKjatvub51BhT0rEc&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=b6BS2zVobvt0L0oFSuPX_FQATkqZcU2tDTPgGEiwG3s&cl=ffffff&w=a"></script>
 
