@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-header {
+#header_wrap {
     background-image: url('figs/bg.jpg'); /* 图片路径 */
     background-size: cover; /* 确保图片覆盖整个背景 */
     background-position: center; /* 居中对齐图片 */
