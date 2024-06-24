@@ -34,7 +34,7 @@ Relevant papers and open-source resources have been collated and are continuousl
   > - Others
   > We will clarify these studies through the lens of their focused pre-training and adaptation techniques. 
 
-### 5. Applications [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
+### 5. Applications of UFMs [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
 
   > This section explores the application landscape of UFMs, detailing their potential impact in various urban domains, such as transportation, urban planning, energy management, environmental monitoring, and public safety and security.
 
