@@ -66,7 +66,7 @@ Relevant papers and open-source resources have been collated and are continuousl
 <!-- <img align="left" src="figs/haoliu.jpg" width="80" style="margin-right: 20px;">**[Hao Liu](https://raymondhliu.github.io/)** is currently an assistant professor at the Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). Prior to that, he was a senior research scientist at Baidu Research and a postdoctoral fellow at HKUST. He received the Ph.D. degree from the Hong Kong University of Science and Technology (HKUST), in 2017. His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing. He has published prolifically in refereed journals and conference proceedings, such as TKDE, VLDBJ, KDD, NeurIPS, VLDB, SIGIR, WWW, AAAI, and IJCAI. -->
 
 
-## Cite our work 
+## Cite Our Work 
 
 If you find our work useful, please cite our work:
 - Survey paper (Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models)
