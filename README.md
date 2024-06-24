@@ -1,9 +1,3 @@
-
-<!-- Welcome to our KDD' 24 Tutorial, "Towards Urban General Intelligence Through Urban Foundation Models".
-
-Website: https://chaunceykung.github.io/temporal-causal-discovery-tutorial/ -->
-
-
 ## Tutorial Abstract
 
 Machine learning techniques are now integral to the advancement of intelligent urban services, playing a crucial role in elevating the efficiency, sustainability, and livability of urban environments. The recent emergence of foundation models such as ChatGPT marks a revolutionary shift in the fields of machine learning and artificial intelligence. Their unparalleled capabilities in contextual understanding, problem solving, and adaptability across a wide range of tasks suggest that integrating these models into urban domains could have a transformative impact on the development of smart cities. 
