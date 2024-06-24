@@ -69,7 +69,7 @@ Relevant papers and open-source resources have been collated and are continuousl
 ## Cite our work 
 
 If you find our work useful, please cite our work:
-- Survey paper (Causal Discovery from Temporal Data: An Overview and New Perspectives)
+- Survey paper (Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models)
 ```
 @article{zhang2024towards,
   title={Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models},
