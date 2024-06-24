@@ -55,7 +55,7 @@ Relevant papers and open-source resources have been collated and are continuousl
 
 <img align="left" src="figs/huixiong.jpg" width="80" style="margin-right: 20px;">**[Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)** is a Chair Professor, Associate Vice President (Knowledge Transfer), and Head of the Artificial Intelligence Thrust at Hong Kong University of Science and Technology (Guangzhou). His research interests span artificial intelligence, data mining, and mobile computing. He obtained his PhD in Computer Science from the University of Minnesota, USA. Dr. Xiong has served on numerous organization and program committees for conferences, including as Program Co-Chair for the Industrial and Government Track for the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Program Co-Chair for the IEEE 2013 International Conference on Data Mining (ICDM), General Co-Chair for the 2015 IEEE International Conference on Data Mining (ICDM), and Program Co-Chair of the Research Track for the 2018 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. He received several awards, such as the 2021 AAAI Best Paper Award and the 2011 IEEE ICDM Best Research Paper award. For his significant contributions to data mining and mobile computing, he was elected as a Fellow of both AAAS and IEEE in 2020.
 
-<img align="left" src="figs/weijiazhang.png" width="80" style="margin-right: 20px;">**[Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en)** is currently a Ph.D. student at the Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). His research interests include spatio-temporal data mining, urban general intelligence, and sequence modeling. His works on urban intelligence have been published in several prestigious conferences and journals, such as KDD, WWW, VLDB, AAAI, ICDM, and TKDE. 
+<img align="left" src="figs/weijiazhang.png" width="80" style="margin-right: 20px;">**[Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en)** is currently a Ph.D. student at the Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). His research interests include spatio-temporal data mining, urban general intelligence, and sequence modeling. His works on urban intelligence have been published in several prestigious conferences and journals, such as KDD, ICML, WWW, VLDB, AAAI, ICDM, and TKDE. 
 
 <img align="left" src="figs/jindonghan.jpg" width="80" style="margin-right: 20px;">**[Jindong Han](https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=en)** is currently a Ph.D. student at the Hong Kong University of Science and Technology. His research interests include spatiotemporal data mining, urban computing, and large language models. He has published several research papers in prestigious conferences and journals, such as KDD, VLDB, AAAI, TKDE, and VLDBJ. He received the first prize award in the Fresh Air competition of KDD Cup 2018.
 
@@ -68,7 +68,7 @@ Relevant papers and open-source resources have been collated and are continuousl
 ## Cite Our Work 
 
 If you find our work useful, please cite our work:
-- Survey paper (Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models)
+- Survey paper (Urban Foundation Models: A Survey)
 ```
 @inproceedings{ufmsurvey-kdd2024,
 author = {Zhang, Wejia and Han, Jindong and Xu, Zhao and Ni, Hang and Liu, Hao and Xiong, Hui},
