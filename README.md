@@ -63,7 +63,6 @@ Relevant papers and open-source resources have been collated and are continuousl
 
 <img align="left" src="figs/hangni.jpg" width="80" style="margin-right: 20px;">**[Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en)** received his B.E. degree from Northwestern Polytechnical University. He is currently a Ph.D. candidate at Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). His research interests lie in areas of graph learning and urban computing. Some of his works have been accepted by top conferences and journals such as CIKM and KBS.
 
-<!-- <img align="left" src="figs/haoliu.jpg" width="80" style="margin-right: 20px;">**[Hao Liu](https://raymondhliu.github.io/)** is currently an assistant professor at the Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). Prior to that, he was a senior research scientist at Baidu Research and a postdoctoral fellow at HKUST. He received the Ph.D. degree from the Hong Kong University of Science and Technology (HKUST), in 2017. His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing. He has published prolifically in refereed journals and conference proceedings, such as TKDE, VLDBJ, KDD, NeurIPS, VLDB, SIGIR, WWW, AAAI, and IJCAI. -->
 
 
 ## Cite Our Work 
@@ -71,11 +70,11 @@ Relevant papers and open-source resources have been collated and are continuousl
 If you find our work useful, please cite our work:
 - Survey paper (Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models)
 ```
-@article{zhang2024towards,
-  title={Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models},
-  author={Zhang, Weijia and Han, Jindong and Xu, Zhao and Ni, Hang and Liu, Hao and Xiong, Hui},
-  journal={arXiv preprint arXiv:2402.01749},
-  year={2024}
+@inproceedings{kdd2024-urban-foundation-model-tutorial,
+author = {Zhang, Wejia and Han, Jindong and Xu, Zhao and Ni, Hang and Liu, Hao and Xiong, Hui},
+title = {Urban Foundation Models: A Survey},
+year = {2024},
+booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining}
 }
 ```
 
