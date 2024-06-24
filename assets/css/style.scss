@@ -4,8 +4,19 @@
 @import "jekyll-theme-slate";
 
 #header_wrap {
-  background: rgba(0, 0, 0, 0.9) url('../../figs/background.jpg') no-repeat center center;
-//   background: url('https://raw.githubusercontent.com/usail-hkust/Urban_Foundation_Model_Tutorial/main/figs/background.png') no-repeat center center;
-  background-size: cover;
-  background-color: linear-gradient(to top, #373737, #212121);
-}
+    position: relative;
+    overflow: hidden;
+  }
+  
+  #header_wrap::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url("../../figs/background.jpg") no-repeat center center;
+    background-size: cover;
+    opacity: 0.5;  // 设置透明度为 50%
+    z-index: -1;
+  }
