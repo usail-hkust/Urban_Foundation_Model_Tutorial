@@ -12,7 +12,7 @@ Relevant papers and open-source resources have been collated and are continuousl
 
 ## Tutorial Materials and Outline
 
-### Our [[survey paper]](https://arxiv.org/abs/2402.01749) 
+### Our [[survey paper]](https://www.researchgate.net/publication/382025953_Urban_Foundation_Models_A_Survey) 
 
 ### Tutorial Outline
 
