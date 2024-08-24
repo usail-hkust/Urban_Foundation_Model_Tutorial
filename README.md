@@ -23,7 +23,7 @@ Relevant papers and open-source resources have been collated and are continuousl
 ### 2. Challenges of Building UFMs [15 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
   > This section discusses the challenges to building UFMs, including multi-source, multi-granularity, and multi-modal data integration; spatio-temporal reasoning capability; versatility to diverse urban task domains; and privacy and security concerns. 
 
-### 4. Overview of UFMs [90 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
+### 3. Overview of UFMs [110 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
 
   > We introduce a data-centric taxonomy for UFMs-related studies to shed light on the progress and efforts made in this field. Based on the urban data modalities, we categorize the existing works on UFMs into six classes: 
   > - Language-based models
@@ -34,11 +34,8 @@ Relevant papers and open-source resources have been collated and are continuousl
   > - Others
   > We will clarify these studies through the lens of their focused pre-training and adaptation techniques. 
 
-### 5. Applications of UFMs [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
 
-  > This section explores the application landscape of UFMs, detailing their potential impact in various urban domains, such as transportation, urban planning, energy management, environmental monitoring, and public safety and security.
-
-### 6. Prospects of UFMs and Future Directions [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
+### 4. Prospects of UFMs and Future Directions [30 mins][[slides]](slides/UFM_Tutorial_Proposal.pdf)
 
   > To foster advancement in this field, we present a promising framework aimed at the prospective realization of versatile UFMs, designed to overcome the identified challenges.
 
